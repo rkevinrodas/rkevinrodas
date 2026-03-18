@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Rodas
 
-## Hi, I am a Cyber Security Analyst with a strong interest in deployment security & platform solutions.
+## I am a Cyber Security Analyst with a strong interest in deployment security & platform solutions.
 
 - 🔭 Currently working on creating a OSINT parser for offline usage and enrichment on my home lab.
 - 🌱 I am a Cyber Security Support Engineer at Darktrace.
